@@ -1,0 +1,14 @@
+layout_spectrum: 0.20383077231235802
+typography_spectrum: 0.04290169104933739
+color:
+  brandStrength: 0.4070692684035748
+  lightness: 0.2804434841964394
+  saturation: 0.4683470390737057
+  rhythmicContrast: 0.21152029978111386
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: yourwinebasket
